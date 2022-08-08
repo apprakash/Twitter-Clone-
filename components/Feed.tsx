@@ -14,7 +14,7 @@ function Feed() {
           hover:rotate-180 active:scale-125' 
         />
       </div>
-
+ 
       <div>
         <TweetBox />
       </div>
